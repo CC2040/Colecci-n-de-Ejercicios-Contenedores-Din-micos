@@ -1,3 +1,8 @@
-//
-// Created by carlo on 16/12/2024.
-//
+#include "Ejercicio1/vector.h"
+
+int main() {
+    /*Ejercicio 1*/
+    vector();
+
+    return 0;
+}

@@ -1,12 +1,7 @@
 #ifndef VECTOR_H
 #define VECTOR_H
 
-
-
-class vector {
-
-};
-
+void vector();
 
 
 #endif //VECTOR_H
