@@ -5,12 +5,7 @@
 #ifndef SECUENCIAS_H
 #define SECUENCIAS_H
 
-
-
-class secuencias {
-
-};
-
+void secuencias();
 
 
 #endif //SECUENCIAS_H
