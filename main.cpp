@@ -2,6 +2,7 @@
 #include "Ejercicio2/secuencias.h"
 #include "Ejercicio3/algoritmos.h"
 #include "Ejercicio4/calculo.h"
+#include "Ejercicio5/moderno.h"
 
 int main() {
     /*Ejercicio 1*/
@@ -12,6 +13,7 @@ int main() {
     algoritmos();
     /*Ejercicio4*/
     calculo();
-
+    /*Ejercicio5*/
+    moderno();
     return 0;
 }
