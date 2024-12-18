@@ -5,12 +5,7 @@
 #ifndef CALCULO_H
 #define CALCULO_H
 
-
-
-class calculo {
-
-};
-
+void calculo();
 
 
 #endif //CALCULO_H
