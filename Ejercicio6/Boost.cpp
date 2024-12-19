@@ -5,6 +5,7 @@
 
  void p_boost() {
     std::string s = "12345";
+     std::cout << "Ejercicio 6" << std::endl;
 
     try {
         int i = boost::lexical_cast<int>(s);
