@@ -3,6 +3,7 @@
 #include "Ejercicio3/algoritmos.h"
 #include "Ejercicio4/calculo.h"
 #include "Ejercicio5/moderno.h"
+#include "Ejercicio6/Boost.h"
 
 int main() {
     /*Ejercicio 1*/
@@ -15,5 +16,7 @@ int main() {
     calculo();
     /*Ejercicio5*/
     moderno();
+    /*Ejercicio6*/
+    p_boost();
     return 0;
 }
